@@ -1,14 +1,14 @@
 # Site settings
 # in the templates available like {{ site.myvariable }}.
-title: Clean portfolio theme for Jekyll powered by Bootstrap 4.
-email: your-email@domain.com
-brand: Your Name
-headline: Inventor, Engineer and Futurist
+title: Lily Paris
+email: contato@lily.paris
+brand: Lily Paris
+headline: Design, elegância e exclusividade
 description: > # this means to ignore newlines until "baseurl:"
-  New Site
+  Lily Paris
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://wogdalker.github.io" # the base hostname & protocol for your site
-copyright: 2016 Whatever Company, Inc. All Rights Reserved.
+copyright: 2020 Lily Paris, Inc. All Rights Reserved.
 
 # Build settings
 markdown: kramdown
@@ -17,8 +17,9 @@ markdown: kramdown
 snapwidget: 247552
 
 # Contacts
-email: your.name@gmail.com
-phone: +1-800-555-2016
+email: contato@lily.paris
+twitter: https://www.twitter.com/LilyParisDecor
+#phone: +1-800-555-2016
 
 # Tracking
 googleAnalitycsID: UA-83933844-1
